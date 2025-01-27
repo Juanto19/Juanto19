@@ -18,8 +18,6 @@ With a strong interest in applying AI and building real-world solutions, I aim t
 
 ---
 
----
-
 ### 🎓 Academic Background
 
 - **Data Analytics & AI Bootcamp (Upgrade Hub)**: Gained experience in data analysis and visualization, along with AI development.
